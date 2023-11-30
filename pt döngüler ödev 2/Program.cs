@@ -11,9 +11,8 @@ namespace pt_döngüler_ödev_2
         static void Main(string[] args)
         {
 
-            Console.Write("bu programda girdiğiniz sayı ile 1 arasındali tek veya çift sayıları toplayabilirsiniz (başlamak için enter)");
-            Console.ReadLine();
-
+            Console.WriteLine("bu programda girdiğiniz sayı ile 1 arasındali tek veya çift sayıları toplayabilirsiniz (başlamak için enter)");
+            
             for (; ; )
             {               
 
